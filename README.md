@@ -1,8 +1,18 @@
-### Tech-stack: Python + Streamlit
+### Tech-stack:
+
+#### Python + Streamlit:
+
+#### Pymongo: Python driver to interact with the MongoDB database and used to store the conversations.
 
 #### Check out this link for Gemini API documentation: https://ai.google.dev/gemini-api/docs/migrate
 
 #### To install streamlit: pip install streamlit
+
+## Steps to run the app:
+
+### Install the dependencies
+
+### Go to the project directory, run this command : streamlit run app.py
 
 ### Code Summary
 
